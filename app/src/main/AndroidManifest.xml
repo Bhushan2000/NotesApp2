@@ -14,7 +14,7 @@
         android:theme="@style/Theme.NotesApp" >
         <activity android:name=".EditNoteActivity"></activity>
         <activity android:name=".NewNoteActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
