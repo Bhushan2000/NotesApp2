@@ -11,10 +11,10 @@ An Android application to manage notes with CRUD (Create, Read, Update, Delete) 
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Create Note](screenshots/create.png)
-![View Note](screenshots/view.png)
-![Edit Note](screenshots/edit.png)
+<img src='https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/47a0167e-848c-436b-b6f3-fc77943650ec' height='400' width='200' />
+<img src='https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/1ef62714-e53d-4ff6-9799-2e7cda25f7fe' height='400' width='200' />
+<img src='https://github.com/Bhushan2000/Covid19Tracker/assets/157300484/80401ae7-c332-4b61-8c4a-8599d6368dfe' height='400' width='200' />
+
 
 ## Getting Started
 
